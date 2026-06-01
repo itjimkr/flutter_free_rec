@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rec</string>
+    <string name="notification_channel_name">Perekaman layar</string>
+    <string name="notification_channel_description">Ditampilkan saat Rec merekam layar Anda.</string>
+    <string name="notification_recording_title">Sedang merekam layar</string>
+    <string name="notification_recording_message">Rec sedang menyimpan rekaman Anda.</string>
+    <string name="microphone_permission_required">Izin mikrofon diperlukan untuk perekaman mikrofon.</string>
+    <string name="screen_capture_permission_denied">Izin perekaman layar tidak diberikan.</string>
+    <string name="screen_capture_permission_revoked">Izin perekaman layar dicabut oleh sistem.</string>
+    <string name="recording_start_failed">Gagal memulai perekam Android.</string>
+    <string name="recording_already_running">Perekaman sudah sedang berjalan.</string>
+    <string name="not_recording">Tidak ada perekaman aktif untuk dihentikan.</string>
+    <string name="recording_finalize_failed">Perekaman Android tidak dapat diselesaikan.</string>
+    <string name="projection_manager_unavailable">Layanan perekaman layar Android tidak tersedia.</string>
+    <string name="projection_acquire_failed">Gagal mendapatkan sesi perekaman Android.</string>
+    <string name="virtual_display_failed">Gagal membuat tampilan virtual Android.</string>
+    <string name="android_note">Android menggunakan MediaProjection untuk perekaman layar penuh dan menyimpan rekaman di folder film aplikasi. Perekaman per jendela, penyaringan desktop, dan codec khusus Apple tidak tersedia.</string>
+</resources>

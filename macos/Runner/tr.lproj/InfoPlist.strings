@@ -1,0 +1,3 @@
+"NSCameraUsageDescription" = "Rec, sunucu katmanı için kamera erişimine ihtiyaç duyar.";
+"NSMicrophoneUsageDescription" = "Rec, sesinizi kaydetmek için mikrofon erişimine ihtiyaç duyar.";
+"NSScreenCaptureUsageDescription" = "Rec, ekranları, pencereleri ve uygulamaları yakalamak için ekran kaydı erişimine ihtiyaç duyar.";

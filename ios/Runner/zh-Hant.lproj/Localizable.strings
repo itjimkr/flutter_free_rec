@@ -1,0 +1,12 @@
+"bridge.unavailable" = "錄影橋接不可用。";
+"note.ios" = "iOS 使用 ReplayKit 進行 App 內螢幕錄製。視窗選擇、系統音訊路由與 macOS 風格覆蓋層目前不可用。";
+"error.recordingEndedBeforeFrames" = "錄影在任何影格寫入前就已結束。";
+"error.finishWritingFailed" = "無法完成錄影檔寫入。";
+"error.bridgeUnavailable" = "iOS 錄影橋接不可用。";
+"error.captureAlreadyRunning" = "已有錄影正在進行中。";
+"error.microphonePermissionDenied" = "錄製麥克風需要麥克風權限。";
+"error.notRecording" = "目前沒有可停止的錄影。";
+"error.writerUnavailable" = "錄影寫入器尚未初始化。";
+"error.emptyCapture" = "錄影在任何影格被擷取前就已結束。";
+"error.finishFailed" = "無法完成錄影收尾。";
+"error.videoInputUnavailable" = "無法將視訊輸入連接到寫入器。";

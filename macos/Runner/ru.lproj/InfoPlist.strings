@@ -1,0 +1,3 @@
+"NSCameraUsageDescription" = "Rec нужен доступ к камере для наложения ведущего.";
+"NSMicrophoneUsageDescription" = "Rec нужен доступ к микрофону, чтобы записывать ваш голос.";
+"NSScreenCaptureUsageDescription" = "Rec нужен доступ к записи экрана, чтобы захватывать дисплеи, окна и приложения.";

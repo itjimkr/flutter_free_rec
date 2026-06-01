@@ -1,0 +1,12 @@
+"bridge.unavailable" = "रिकॉर्डर ब्रिज उपलब्ध नहीं है।";
+"note.ios" = "iOS, ऐप के अंदर स्क्रीन कैप्चर के लिए ReplayKit का उपयोग करता है। विंडो चुनना, सिस्टम ऑडियो रूटिंग और macOS शैली वाले ओवरले उपलब्ध नहीं हैं।";
+"error.recordingEndedBeforeFrames" = "कोई भी फ़्रेम लिखे जाने से पहले रिकॉर्डिंग समाप्त हो गई।";
+"error.finishWritingFailed" = "रिकॉर्डिंग फ़ाइल को पूरा नहीं किया जा सका।";
+"error.bridgeUnavailable" = "iOS रिकॉर्डर ब्रिज उपलब्ध नहीं है।";
+"error.captureAlreadyRunning" = "रिकॉर्डिंग पहले से चल रही है।";
+"error.microphonePermissionDenied" = "माइक्रोफ़ोन रिकॉर्डिंग के लिए माइक्रोफ़ोन अनुमति आवश्यक है।";
+"error.notRecording" = "रोकने के लिए कोई सक्रिय रिकॉर्डिंग नहीं है।";
+"error.writerUnavailable" = "रिकॉर्डिंग राइटर प्रारंभ नहीं किया गया था।";
+"error.emptyCapture" = "कोई भी फ़्रेम कैप्चर होने से पहले रिकॉर्डिंग समाप्त हो गई।";
+"error.finishFailed" = "रिकॉर्डिंग को अंतिम रूप नहीं दिया जा सका।";
+"error.videoInputUnavailable" = "वीडियो इनपुट को राइटर से जोड़ा नहीं जा सका।";

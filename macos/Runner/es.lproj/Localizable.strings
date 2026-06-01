@@ -1,0 +1,5 @@
+"bridge.unavailable" = "El puente del grabador no está disponible.";
+"outputDirectory.selectTitle" = "Seleccionar carpeta de salida";
+"outputDirectory.selectMessage" = "Elige dónde se guardarán las grabaciones";
+"error.notRecording" = "No hay ninguna grabación en curso en este momento.";
+"error.noDisplayAvailable" = "No hay ninguna pantalla disponible para grabar.";

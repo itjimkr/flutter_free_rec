@@ -1,0 +1,12 @@
+"bridge.unavailable" = "De recorderbrug is niet beschikbaar.";
+"note.ios" = "iOS gebruikt ReplayKit voor schermopname binnen de app. Vensterselectie, routering van systeemaudio en overlays in macOS-stijl zijn niet beschikbaar.";
+"error.recordingEndedBeforeFrames" = "De opname is beëindigd voordat er frames werden geschreven.";
+"error.finishWritingFailed" = "Het schrijven van de opname kon niet worden voltooid.";
+"error.bridgeUnavailable" = "De iOS-recorderbrug is niet beschikbaar.";
+"error.captureAlreadyRunning" = "Er loopt al een opname.";
+"error.microphonePermissionDenied" = "Microfoontoestemming is vereist voor microfoonopname.";
+"error.notRecording" = "Er is geen actieve opname om te stoppen.";
+"error.writerUnavailable" = "De opnameschrijver is niet geïnitialiseerd.";
+"error.emptyCapture" = "De opname is beëindigd voordat er frames werden vastgelegd.";
+"error.finishFailed" = "De opname kon niet worden afgerond.";
+"error.videoInputUnavailable" = "De video-invoer kon niet aan de schrijver worden gekoppeld.";

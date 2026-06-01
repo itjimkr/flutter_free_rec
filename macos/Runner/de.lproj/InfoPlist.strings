@@ -1,0 +1,3 @@
+"NSCameraUsageDescription" = "Rec benötigt Kamerazugriff für das Präsentator-Overlay.";
+"NSMicrophoneUsageDescription" = "Rec benötigt Mikrofonzugriff, um Ihre Stimme aufzunehmen.";
+"NSScreenCaptureUsageDescription" = "Rec benötigt Bildschirmaufnahme-Zugriff, um Displays, Fenster und Apps zu erfassen.";

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rec</string>
+    <string name="notification_channel_name">स्क्रीन रिकॉर्डिंग</string>
+    <string name="notification_channel_description">जब Rec आपकी स्क्रीन रिकॉर्ड कर रहा होता है तब यह दिखाया जाता है।</string>
+    <string name="notification_recording_title">स्क्रीन रिकॉर्ड की जा रही है</string>
+    <string name="notification_recording_message">Rec आपकी रिकॉर्डिंग सहेज रहा है।</string>
+    <string name="microphone_permission_required">माइक्रोफ़ोन रिकॉर्डिंग के लिए माइक्रोफ़ोन अनुमति आवश्यक है।</string>
+    <string name="screen_capture_permission_denied">स्क्रीन कैप्चर की अनुमति नहीं दी गई।</string>
+    <string name="screen_capture_permission_revoked">स्क्रीन कैप्चर की अनुमति सिस्टम ने वापस ले ली।</string>
+    <string name="recording_start_failed">Android रिकॉर्डर शुरू नहीं हो सका।</string>
+    <string name="recording_already_running">रिकॉर्डिंग पहले से चल रही है।</string>
+    <string name="not_recording">रोकने के लिए कोई सक्रिय रिकॉर्डिंग नहीं है।</string>
+    <string name="recording_finalize_failed">Android रिकॉर्डिंग को अंतिम रूप नहीं दिया जा सका।</string>
+    <string name="projection_manager_unavailable">Android स्क्रीन कैप्चर सेवा उपलब्ध नहीं है।</string>
+    <string name="projection_acquire_failed">Android रिकॉर्डिंग सत्र प्राप्त नहीं किया जा सका।</string>
+    <string name="virtual_display_failed">Android वर्चुअल डिस्प्ले नहीं बनाया जा सका।</string>
+    <string name="android_note">Android पूर्ण स्क्रीन कैप्चर के लिए MediaProjection का उपयोग करता है और रिकॉर्डिंग को ऐप के Movies फ़ोल्डर में सहेजता है। प्रति-विंडो कैप्चर, डेस्कटॉप फ़िल्टरिंग और Apple-विशेष कोडेक उपलब्ध नहीं हैं।</string>
+</resources>

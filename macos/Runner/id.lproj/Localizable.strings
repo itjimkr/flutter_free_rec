@@ -1,0 +1,5 @@
+"bridge.unavailable" = "Jembatan perekam tidak tersedia.";
+"outputDirectory.selectTitle" = "Pilih Folder Output";
+"outputDirectory.selectMessage" = "Pilih lokasi penyimpanan rekaman";
+"error.notRecording" = "Saat ini tidak ada perekaman yang sedang berlangsung.";
+"error.noDisplayAvailable" = "Tidak ada layar yang tersedia untuk perekaman.";

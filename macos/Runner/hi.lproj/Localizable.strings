@@ -1,0 +1,5 @@
+"bridge.unavailable" = "रिकॉर्डर ब्रिज उपलब्ध नहीं है।";
+"outputDirectory.selectTitle" = "आउटपुट फ़ोल्डर चुनें";
+"outputDirectory.selectMessage" = "रिकॉर्डिंग कहाँ सहेजी जाएगी, यह चुनें";
+"error.notRecording" = "अभी कोई रिकॉर्डिंग प्रगति पर नहीं है।";
+"error.noDisplayAvailable" = "रिकॉर्डिंग के लिए कोई डिस्प्ले उपलब्ध नहीं है।";

@@ -1,0 +1,12 @@
+"bridge.unavailable" = "Kaydedici köprüsü kullanılamıyor.";
+"note.ios" = "iOS, uygulama içi ekran yakalama için ReplayKit kullanır. Pencere seçimi, sistem sesi yönlendirme ve macOS tarzı katmanlar kullanılamaz.";
+"error.recordingEndedBeforeFrames" = "Herhangi bir kare yazılmadan kayıt sona erdi.";
+"error.finishWritingFailed" = "Kayıt dosyası yazma işlemi tamamlanamadı.";
+"error.bridgeUnavailable" = "iOS kaydedici köprüsü kullanılamıyor.";
+"error.captureAlreadyRunning" = "Bir kayıt zaten devam ediyor.";
+"error.microphonePermissionDenied" = "Mikrofon kaydı için mikrofon izni gereklidir.";
+"error.notRecording" = "Durdurulacak etkin bir kayıt yok.";
+"error.writerUnavailable" = "Kayıt yazıcısı başlatılmadı.";
+"error.emptyCapture" = "Herhangi bir kare yakalanmadan kayıt sona erdi.";
+"error.finishFailed" = "Kayıt tamamlanamadı.";
+"error.videoInputUnavailable" = "Video girişi yazıcıya bağlanamadı.";

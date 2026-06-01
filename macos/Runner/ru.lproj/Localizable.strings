@@ -1,0 +1,5 @@
+"bridge.unavailable" = "Мост рекордера недоступен.";
+"outputDirectory.selectTitle" = "Выберите папку вывода";
+"outputDirectory.selectMessage" = "Выберите, где будут сохраняться записи";
+"error.notRecording" = "Сейчас запись не ведется.";
+"error.noDisplayAvailable" = "Нет доступного дисплея для записи.";

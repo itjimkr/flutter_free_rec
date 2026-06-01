@@ -1,0 +1,5 @@
+"bridge.unavailable" = "레코더 브리지를 사용할 수 없어요.";
+"outputDirectory.selectTitle" = "저장 폴더 선택";
+"outputDirectory.selectMessage" = "녹화 파일을 저장할 위치를 골라 주세요.";
+"error.notRecording" = "지금 진행 중인 녹화가 없어요.";
+"error.noDisplayAvailable" = "녹화할 수 있는 디스플레이가 없어요.";

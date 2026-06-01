@@ -1,0 +1,3 @@
+"NSCameraUsageDescription" = "Recはプレゼンターオーバーレイにカメラへのアクセスが必要です。";
+"NSMicrophoneUsageDescription" = "Recは音声を録音するためにマイクへのアクセスが必要です。";
+"NSScreenCaptureUsageDescription" = "Recはディスプレイ、ウィンドウ、アプリを録画するために画面収録へのアクセスが必要です。";

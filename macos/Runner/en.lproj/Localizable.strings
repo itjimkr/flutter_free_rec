@@ -1,0 +1,5 @@
+"bridge.unavailable" = "Recorder bridge is unavailable.";
+"outputDirectory.selectTitle" = "Select Output Directory";
+"outputDirectory.selectMessage" = "Choose where recordings will be saved";
+"error.notRecording" = "No recording is currently in progress.";
+"error.noDisplayAvailable" = "No display is available for recording.";

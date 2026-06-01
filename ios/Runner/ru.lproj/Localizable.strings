@@ -1,0 +1,12 @@
+"bridge.unavailable" = "Мост рекордера недоступен.";
+"note.ios" = "iOS использует ReplayKit для записи экрана внутри приложения. Выбор окна, маршрутизация системного звука и оверлеи в стиле macOS недоступны.";
+"error.recordingEndedBeforeFrames" = "Запись завершилась до того, как был записан хотя бы один кадр.";
+"error.finishWritingFailed" = "Не удалось завершить запись файла.";
+"error.bridgeUnavailable" = "Мост рекордера iOS недоступен.";
+"error.captureAlreadyRunning" = "Запись уже выполняется.";
+"error.microphonePermissionDenied" = "Для записи с микрофона требуется разрешение на доступ к микрофону.";
+"error.notRecording" = "Нет активной записи, которую можно остановить.";
+"error.writerUnavailable" = "Модуль записи не был инициализирован.";
+"error.emptyCapture" = "Запись завершилась до того, как был захвачен хотя бы один кадр.";
+"error.finishFailed" = "Не удалось завершить запись.";
+"error.videoInputUnavailable" = "Не удалось подключить видеовход к модулю записи.";

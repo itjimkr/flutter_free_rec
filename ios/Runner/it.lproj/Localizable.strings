@@ -1,0 +1,12 @@
+"bridge.unavailable" = "Il bridge del registratore non è disponibile.";
+"note.ios" = "iOS usa ReplayKit per la cattura dello schermo dentro l'app. Selezione della finestra, instradamento dell'audio di sistema e overlay in stile macOS non sono disponibili.";
+"error.recordingEndedBeforeFrames" = "La registrazione è terminata prima che venisse scritto qualsiasi fotogramma.";
+"error.finishWritingFailed" = "Impossibile completare il salvataggio della registrazione.";
+"error.bridgeUnavailable" = "Il bridge del registratore iOS non è disponibile.";
+"error.captureAlreadyRunning" = "È già in corso una registrazione.";
+"error.microphonePermissionDenied" = "L'autorizzazione al microfono è necessaria per registrare il microfono.";
+"error.notRecording" = "Non c'è alcuna registrazione attiva da fermare.";
+"error.writerUnavailable" = "Il writer della registrazione non è stato inizializzato.";
+"error.emptyCapture" = "La registrazione è terminata prima che venisse catturato qualsiasi fotogramma.";
+"error.finishFailed" = "Non è stato possibile finalizzare la registrazione.";
+"error.videoInputUnavailable" = "Non è stato possibile collegare l'ingresso video al writer.";

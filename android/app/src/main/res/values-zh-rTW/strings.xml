@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rec</string>
+    <string name="notification_channel_name">螢幕錄影</string>
+    <string name="notification_channel_description">當 Rec 正在錄製螢幕時顯示。</string>
+    <string name="notification_recording_title">正在錄製螢幕</string>
+    <string name="notification_recording_message">Rec 正在儲存您的錄影。</string>
+    <string name="microphone_permission_required">錄製麥克風需要麥克風權限。</string>
+    <string name="screen_capture_permission_denied">尚未授予螢幕錄製權限。</string>
+    <string name="screen_capture_permission_revoked">螢幕錄製權限已被系統撤銷。</string>
+    <string name="recording_start_failed">無法啟動 Android 錄影器。</string>
+    <string name="recording_already_running">已有錄影正在進行中。</string>
+    <string name="not_recording">目前沒有可停止的錄影。</string>
+    <string name="recording_finalize_failed">無法完成 Android 錄影收尾。</string>
+    <string name="projection_manager_unavailable">Android 螢幕擷取服務不可用。</string>
+    <string name="projection_acquire_failed">無法取得 Android 錄影工作階段。</string>
+    <string name="virtual_display_failed">無法建立 Android 虛擬顯示器。</string>
+    <string name="android_note">Android 使用 MediaProjection 進行全螢幕擷取，並將錄影儲存在 App 的影片資料夾中。不支援逐視窗錄影、桌面過濾與 Apple 專用編解碼器。</string>
+</resources>

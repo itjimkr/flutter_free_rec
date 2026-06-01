@@ -1,0 +1,12 @@
+"bridge.unavailable" = "Cầu nối trình ghi không khả dụng.";
+"note.ios" = "iOS sử dụng ReplayKit để ghi màn hình trong ứng dụng. Chọn cửa sổ, định tuyến âm thanh hệ thống và lớp phủ kiểu macOS không khả dụng.";
+"error.recordingEndedBeforeFrames" = "Bản ghi đã kết thúc trước khi có khung hình nào được ghi.";
+"error.finishWritingFailed" = "Không thể hoàn tất việc ghi tệp bản ghi.";
+"error.bridgeUnavailable" = "Cầu nối trình ghi iOS không khả dụng.";
+"error.captureAlreadyRunning" = "Một bản ghi đang chạy rồi.";
+"error.microphonePermissionDenied" = "Cần có quyền micrô để ghi âm micrô.";
+"error.notRecording" = "Không có bản ghi đang hoạt động để dừng.";
+"error.writerUnavailable" = "Bộ ghi tệp chưa được khởi tạo.";
+"error.emptyCapture" = "Bản ghi đã kết thúc trước khi có khung hình nào được ghi lại.";
+"error.finishFailed" = "Không thể hoàn tất bản ghi.";
+"error.videoInputUnavailable" = "Không thể gắn đầu vào video vào bộ ghi.";

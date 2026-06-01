@@ -1,0 +1,5 @@
+"bridge.unavailable" = "Kaydedici köprüsü kullanılamıyor.";
+"outputDirectory.selectTitle" = "Çıkış Klasörünü Seç";
+"outputDirectory.selectMessage" = "Kayıtların kaydedileceği yeri seçin";
+"error.notRecording" = "Şu anda devam eden bir kayıt yok.";
+"error.noDisplayAvailable" = "Kayıt için kullanılabilir ekran yok.";

@@ -1,0 +1,5 @@
+"bridge.unavailable" = "บริดจ์ตัวบันทึกไม่พร้อมใช้งาน";
+"outputDirectory.selectTitle" = "เลือกโฟลเดอร์ปลายทาง";
+"outputDirectory.selectMessage" = "เลือกตำแหน่งที่จะบันทึกไฟล์วิดีโอ";
+"error.notRecording" = "ขณะนี้ไม่มีการบันทึกที่กำลังดำเนินอยู่";
+"error.noDisplayAvailable" = "ไม่มีจอภาพที่พร้อมสำหรับการบันทึก";

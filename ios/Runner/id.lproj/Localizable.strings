@@ -1,0 +1,12 @@
+"bridge.unavailable" = "Jembatan perekam tidak tersedia.";
+"note.ios" = "iOS menggunakan ReplayKit untuk perekaman layar di dalam aplikasi. Pemilihan jendela, perutean audio sistem, dan overlay bergaya macOS tidak tersedia.";
+"error.recordingEndedBeforeFrames" = "Perekaman berakhir sebelum ada frame yang ditulis.";
+"error.finishWritingFailed" = "Gagal menyelesaikan penulisan file rekaman.";
+"error.bridgeUnavailable" = "Jembatan perekam iOS tidak tersedia.";
+"error.captureAlreadyRunning" = "Perekaman sudah sedang berjalan.";
+"error.microphonePermissionDenied" = "Izin mikrofon diperlukan untuk perekaman mikrofon.";
+"error.notRecording" = "Tidak ada perekaman aktif untuk dihentikan.";
+"error.writerUnavailable" = "Penulis rekaman belum diinisialisasi.";
+"error.emptyCapture" = "Perekaman berakhir sebelum ada frame yang tertangkap.";
+"error.finishFailed" = "Perekaman tidak dapat diselesaikan.";
+"error.videoInputUnavailable" = "Input video tidak dapat dipasang ke penulis.";

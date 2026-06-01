@@ -1,0 +1,3 @@
+"NSCameraUsageDescription" = "Rec ต้องการสิทธิ์เข้าถึงกล้องสำหรับโอเวอร์เลย์ผู้นำเสนอ";
+"NSMicrophoneUsageDescription" = "Rec ต้องการสิทธิ์เข้าถึงไมโครโฟนเพื่อบันทึกเสียงของคุณ";
+"NSScreenCaptureUsageDescription" = "Rec ต้องการสิทธิ์บันทึกหน้าจอเพื่อจับภาพจอภาพ หน้าต่าง และแอป";

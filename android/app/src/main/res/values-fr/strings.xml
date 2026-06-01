@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rec</string>
+    <string name="notification_channel_name">Enregistrement d’écran</string>
+    <string name="notification_channel_description">Affiché pendant que Rec capture votre écran.</string>
+    <string name="notification_recording_title">Enregistrement de l’écran</string>
+    <string name="notification_recording_message">Rec enregistre votre vidéo.</string>
+    <string name="microphone_permission_required">L’autorisation du microphone est requise pour l’enregistrement du microphone.</string>
+    <string name="screen_capture_permission_denied">L’autorisation de capture d’écran n’a pas été accordée.</string>
+    <string name="screen_capture_permission_revoked">L’autorisation de capture d’écran a été révoquée par le système.</string>
+    <string name="recording_start_failed">Impossible de démarrer l’enregistreur Android.</string>
+    <string name="recording_already_running">Un enregistrement est déjà en cours.</string>
+    <string name="not_recording">Aucun enregistrement actif à arrêter.</string>
+    <string name="recording_finalize_failed">Impossible de finaliser l’enregistrement Android.</string>
+    <string name="projection_manager_unavailable">Le service de capture d’écran Android n’est pas disponible.</string>
+    <string name="projection_acquire_failed">Impossible d’obtenir la session d’enregistrement Android.</string>
+    <string name="virtual_display_failed">Impossible de créer l’écran virtuel Android.</string>
+    <string name="android_note">Android utilise MediaProjection pour la capture plein écran et enregistre les vidéos dans le dossier Films de l’app. La capture par fenêtre, le filtrage du bureau et les codecs spécifiques à Apple ne sont pas disponibles.</string>
+</resources>

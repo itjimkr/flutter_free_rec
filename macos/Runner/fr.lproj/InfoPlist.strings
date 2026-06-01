@@ -1,0 +1,3 @@
+"NSCameraUsageDescription" = "Rec a besoin de l’accès à la caméra pour la superposition du présentateur.";
+"NSMicrophoneUsageDescription" = "Rec a besoin de l’accès au microphone pour capturer votre voix.";
+"NSScreenCaptureUsageDescription" = "Rec a besoin de l’accès à l’enregistrement d’écran pour capturer les écrans, fenêtres et apps.";

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rec</string>
+    <string name="notification_channel_name">Ghi màn hình</string>
+    <string name="notification_channel_description">Hiển thị khi Rec đang ghi màn hình của bạn.</string>
+    <string name="notification_recording_title">Đang ghi màn hình</string>
+    <string name="notification_recording_message">Rec đang lưu bản ghi của bạn.</string>
+    <string name="microphone_permission_required">Cần có quyền micrô để ghi âm micrô.</string>
+    <string name="screen_capture_permission_denied">Quyền ghi màn hình chưa được cấp.</string>
+    <string name="screen_capture_permission_revoked">Quyền ghi màn hình đã bị hệ thống thu hồi.</string>
+    <string name="recording_start_failed">Không thể khởi động trình ghi Android.</string>
+    <string name="recording_already_running">Một bản ghi đang chạy rồi.</string>
+    <string name="not_recording">Không có bản ghi đang hoạt động để dừng.</string>
+    <string name="recording_finalize_failed">Không thể hoàn tất bản ghi Android.</string>
+    <string name="projection_manager_unavailable">Dịch vụ ghi màn hình Android không khả dụng.</string>
+    <string name="projection_acquire_failed">Không thể lấy phiên ghi Android.</string>
+    <string name="virtual_display_failed">Không thể tạo màn hình ảo Android.</string>
+    <string name="android_note">Android sử dụng MediaProjection để ghi toàn màn hình và lưu bản ghi trong thư mục phim của ứng dụng. Ghi theo từng cửa sổ, lọc màn hình nền và codec riêng của Apple không khả dụng.</string>
+</resources>

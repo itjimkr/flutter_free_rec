@@ -1,0 +1,5 @@
+"bridge.unavailable" = "Mostek nagrywarki jest niedostępny.";
+"outputDirectory.selectTitle" = "Wybierz folder wyjściowy";
+"outputDirectory.selectMessage" = "Wybierz miejsce zapisu nagrań";
+"error.notRecording" = "Obecnie nie trwa żadne nagrywanie.";
+"error.noDisplayAvailable" = "Brak dostępnego ekranu do nagrywania.";

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rec</string>
+    <string name="notification_channel_name">Registrazione schermo</string>
+    <string name="notification_channel_description">Mostrato mentre Rec registra lo schermo.</string>
+    <string name="notification_recording_title">Registrazione dello schermo</string>
+    <string name="notification_recording_message">Rec sta salvando la registrazione.</string>
+    <string name="microphone_permission_required">L’autorizzazione al microfono è necessaria per registrare il microfono.</string>
+    <string name="screen_capture_permission_denied">L’autorizzazione alla cattura dello schermo non è stata concessa.</string>
+    <string name="screen_capture_permission_revoked">L’autorizzazione alla cattura dello schermo è stata revocata dal sistema.</string>
+    <string name="recording_start_failed">Impossibile avviare il registratore Android.</string>
+    <string name="recording_already_running">È già in corso una registrazione.</string>
+    <string name="not_recording">Non c’è alcuna registrazione attiva da fermare.</string>
+    <string name="recording_finalize_failed">Non è stato possibile finalizzare la registrazione Android.</string>
+    <string name="projection_manager_unavailable">Il servizio di cattura schermo Android non è disponibile.</string>
+    <string name="projection_acquire_failed">Impossibile ottenere la sessione di registrazione Android.</string>
+    <string name="virtual_display_failed">Impossibile creare il display virtuale Android.</string>
+    <string name="android_note">Android usa MediaProjection per la cattura a schermo intero e salva le registrazioni nella cartella filmati dell’app. La cattura per finestra, il filtraggio del desktop e i codec specifici Apple non sono disponibili.</string>
+</resources>

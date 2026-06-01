@@ -1,0 +1,12 @@
+"bridge.unavailable" = "Mostek nagrywarki jest niedostępny.";
+"note.ios" = "iOS używa ReplayKit do przechwytywania ekranu w aplikacji. Wybór okna, kierowanie dźwięku systemowego i nakładki w stylu macOS nie są dostępne.";
+"error.recordingEndedBeforeFrames" = "Nagrywanie zakończyło się, zanim zapisano jakąkolwiek klatkę.";
+"error.finishWritingFailed" = "Nie udało się zakończyć zapisu nagrania.";
+"error.bridgeUnavailable" = "Mostek nagrywarki iOS jest niedostępny.";
+"error.captureAlreadyRunning" = "Nagrywanie już trwa.";
+"error.microphonePermissionDenied" = "Do nagrywania z mikrofonu wymagane jest uprawnienie do mikrofonu.";
+"error.notRecording" = "Nie ma aktywnego nagrania do zatrzymania.";
+"error.writerUnavailable" = "Moduł zapisu nagrania nie został zainicjalizowany.";
+"error.emptyCapture" = "Nagrywanie zakończyło się, zanim przechwycono jakąkolwiek klatkę.";
+"error.finishFailed" = "Nie udało się sfinalizować nagrania.";
+"error.videoInputUnavailable" = "Nie udało się podłączyć wejścia wideo do modułu zapisu.";

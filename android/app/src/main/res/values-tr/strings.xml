@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rec</string>
+    <string name="notification_channel_name">Ekran kaydı</string>
+    <string name="notification_channel_description">Rec ekranınızı kaydederken gösterilir.</string>
+    <string name="notification_recording_title">Ekran kaydediliyor</string>
+    <string name="notification_recording_message">Rec kaydınızı kaydediyor.</string>
+    <string name="microphone_permission_required">Mikrofon kaydı için mikrofon izni gereklidir.</string>
+    <string name="screen_capture_permission_denied">Ekran yakalama izni verilmedi.</string>
+    <string name="screen_capture_permission_revoked">Ekran yakalama izni sistem tarafından geri alındı.</string>
+    <string name="recording_start_failed">Android kaydedici başlatılamadı.</string>
+    <string name="recording_already_running">Bir kayıt zaten devam ediyor.</string>
+    <string name="not_recording">Durdurulacak etkin bir kayıt yok.</string>
+    <string name="recording_finalize_failed">Android kaydı tamamlanamadı.</string>
+    <string name="projection_manager_unavailable">Android ekran yakalama hizmeti kullanılamıyor.</string>
+    <string name="projection_acquire_failed">Android kayıt oturumu alınamadı.</string>
+    <string name="virtual_display_failed">Android sanal ekranı oluşturulamadı.</string>
+    <string name="android_note">Android, tam ekran yakalama için MediaProjection kullanır ve kayıtları uygulamanın filmler klasörüne kaydeder. Pencere başına yakalama, masaüstü filtreleme ve Apple’a özgü kodekler kullanılamaz.</string>
+</resources>

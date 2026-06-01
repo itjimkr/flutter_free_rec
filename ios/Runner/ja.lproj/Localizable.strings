@@ -1,0 +1,12 @@
+"bridge.unavailable" = "レコーダーブリッジを利用できません。";
+"note.ios" = "iOSではReplayKitを使ってアプリ内の画面を録画します。ウィンドウ選択、システム音声のルーティング、macOSスタイルのオーバーレイは利用できません。";
+"error.recordingEndedBeforeFrames" = "フレームが書き込まれる前に録画が終了しました。";
+"error.finishWritingFailed" = "録画ファイルの書き込みを完了できませんでした。";
+"error.bridgeUnavailable" = "iOSレコーダーブリッジを利用できません。";
+"error.captureAlreadyRunning" = "すでに録画が実行中です。";
+"error.microphonePermissionDenied" = "マイク録音にはマイクの許可が必要です。";
+"error.notRecording" = "停止できる録画がありません。";
+"error.writerUnavailable" = "録画ライターが初期化されていません。";
+"error.emptyCapture" = "フレームが記録される前に録画が終了しました。";
+"error.finishFailed" = "録画を正常に完了できませんでした。";
+"error.videoInputUnavailable" = "ビデオ入力をライターに接続できませんでした。";

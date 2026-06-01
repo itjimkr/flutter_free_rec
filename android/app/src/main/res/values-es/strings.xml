@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rec</string>
+    <string name="notification_channel_name">Grabación de pantalla</string>
+    <string name="notification_channel_description">Se muestra mientras Rec captura tu pantalla.</string>
+    <string name="notification_recording_title">Grabando pantalla</string>
+    <string name="notification_recording_message">Rec está guardando tu grabación.</string>
+    <string name="microphone_permission_required">Se necesita permiso de micrófono para grabar el micrófono.</string>
+    <string name="screen_capture_permission_denied">No se concedió el permiso de captura de pantalla.</string>
+    <string name="screen_capture_permission_revoked">El sistema revocó el permiso de captura de pantalla.</string>
+    <string name="recording_start_failed">No se pudo iniciar el grabador de Android.</string>
+    <string name="recording_already_running">Ya hay una grabación en curso.</string>
+    <string name="not_recording">No hay ninguna grabación activa para detener.</string>
+    <string name="recording_finalize_failed">No se pudo finalizar la grabación de Android.</string>
+    <string name="projection_manager_unavailable">El servicio de captura de pantalla de Android no está disponible.</string>
+    <string name="projection_acquire_failed">No se pudo obtener la sesión de grabación de Android.</string>
+    <string name="virtual_display_failed">No se pudo crear la pantalla virtual de Android.</string>
+    <string name="android_note">Android usa MediaProjection para la captura de pantalla completa y guarda las grabaciones en la carpeta de películas de la app. La captura por ventana, el filtrado del escritorio y los códecs específicos de Apple no están disponibles.</string>
+</resources>

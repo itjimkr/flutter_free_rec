@@ -1,0 +1,5 @@
+"bridge.unavailable" = "Die Recorder-Brücke ist nicht verfügbar.";
+"outputDirectory.selectTitle" = "Ausgabeordner auswählen";
+"outputDirectory.selectMessage" = "Wählen Sie aus, wo Aufnahmen gespeichert werden";
+"error.notRecording" = "Derzeit läuft keine Aufnahme.";
+"error.noDisplayAvailable" = "Es ist kein Display für die Aufnahme verfügbar.";

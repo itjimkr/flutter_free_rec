@@ -1,0 +1,12 @@
+"bridge.unavailable" = "Le pont de l’enregistreur n’est pas disponible.";
+"note.ios" = "iOS utilise ReplayKit pour la capture d’écran dans l’app. La sélection de fenêtre, le routage de l’audio système et les superpositions de style macOS ne sont pas disponibles.";
+"error.recordingEndedBeforeFrames" = "L’enregistrement s’est terminé avant qu’une image ne soit écrite.";
+"error.finishWritingFailed" = "Impossible de terminer l’écriture de l’enregistrement.";
+"error.bridgeUnavailable" = "Le pont de l’enregistreur iOS n’est pas disponible.";
+"error.captureAlreadyRunning" = "Un enregistrement est déjà en cours.";
+"error.microphonePermissionDenied" = "L’autorisation du microphone est requise pour l’enregistrement du microphone.";
+"error.notRecording" = "Aucun enregistrement actif à arrêter.";
+"error.writerUnavailable" = "Le module d’écriture de l’enregistrement n’a pas été initialisé.";
+"error.emptyCapture" = "L’enregistrement s’est terminé avant qu’une image ne soit capturée.";
+"error.finishFailed" = "Impossible de finaliser l’enregistrement.";
+"error.videoInputUnavailable" = "Impossible d’attacher l’entrée vidéo au module d’écriture.";

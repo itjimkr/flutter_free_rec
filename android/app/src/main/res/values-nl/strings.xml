@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rec</string>
+    <string name="notification_channel_name">Schermopname</string>
+    <string name="notification_channel_description">Wordt getoond terwijl Rec uw scherm opneemt.</string>
+    <string name="notification_recording_title">Scherm wordt opgenomen</string>
+    <string name="notification_recording_message">Rec slaat uw opname op.</string>
+    <string name="microphone_permission_required">Microfoontoestemming is vereist voor microfoonopname.</string>
+    <string name="screen_capture_permission_denied">Toestemming voor schermopname is niet verleend.</string>
+    <string name="screen_capture_permission_revoked">Toestemming voor schermopname is door het systeem ingetrokken.</string>
+    <string name="recording_start_failed">De Android-recorder kon niet worden gestart.</string>
+    <string name="recording_already_running">Er loopt al een opname.</string>
+    <string name="not_recording">Er is geen actieve opname om te stoppen.</string>
+    <string name="recording_finalize_failed">De Android-opname kon niet worden afgerond.</string>
+    <string name="projection_manager_unavailable">De Android-schermopnameservice is niet beschikbaar.</string>
+    <string name="projection_acquire_failed">De Android-opnamesessie kon niet worden verkregen.</string>
+    <string name="virtual_display_failed">Het virtuele Android-scherm kon niet worden gemaakt.</string>
+    <string name="android_note">Android gebruikt MediaProjection voor volledige schermopname en slaat opnames op in de filmmap van de app. Opname per venster, desktopfiltering en Apple-specifieke codecs zijn niet beschikbaar.</string>
+</resources>

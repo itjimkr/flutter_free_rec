@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rec</string>
+    <string name="notification_channel_name">Запись экрана</string>
+    <string name="notification_channel_description">Показывается, пока Rec записывает экран.</string>
+    <string name="notification_recording_title">Идет запись экрана</string>
+    <string name="notification_recording_message">Rec сохраняет вашу запись.</string>
+    <string name="microphone_permission_required">Для записи с микрофона требуется разрешение на доступ к микрофону.</string>
+    <string name="screen_capture_permission_denied">Разрешение на запись экрана не было предоставлено.</string>
+    <string name="screen_capture_permission_revoked">Разрешение на запись экрана было отозвано системой.</string>
+    <string name="recording_start_failed">Не удалось запустить рекордер Android.</string>
+    <string name="recording_already_running">Запись уже выполняется.</string>
+    <string name="not_recording">Нет активной записи, которую можно остановить.</string>
+    <string name="recording_finalize_failed">Не удалось завершить запись Android.</string>
+    <string name="projection_manager_unavailable">Служба записи экрана Android недоступна.</string>
+    <string name="projection_acquire_failed">Не удалось получить сеанс записи Android.</string>
+    <string name="virtual_display_failed">Не удалось создать виртуальный дисплей Android.</string>
+    <string name="android_note">Android использует MediaProjection для полноэкранной записи и сохраняет файлы в папке фильмов приложения. Запись отдельных окон, фильтрация рабочего стола и кодеки Apple недоступны.</string>
+</resources>

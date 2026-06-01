@@ -1,0 +1,3 @@
+"NSCameraUsageDescription" = "Rec 需要相機權限才能使用簡報者覆蓋層。";
+"NSMicrophoneUsageDescription" = "Rec 需要麥克風權限才能錄製您的聲音。";
+"NSScreenCaptureUsageDescription" = "Rec 需要螢幕錄製權限才能擷取顯示器、視窗與 App。";

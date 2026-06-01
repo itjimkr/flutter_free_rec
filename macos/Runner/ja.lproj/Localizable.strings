@@ -1,0 +1,5 @@
+"bridge.unavailable" = "レコーダーブリッジを利用できません。";
+"outputDirectory.selectTitle" = "保存フォルダを選択";
+"outputDirectory.selectMessage" = "録画ファイルの保存先を選んでください";
+"error.notRecording" = "現在進行中の録画はありません。";
+"error.noDisplayAvailable" = "録画に使えるディスプレイがありません。";

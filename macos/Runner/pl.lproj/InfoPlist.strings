@@ -1,0 +1,3 @@
+"NSCameraUsageDescription" = "Rec potrzebuje dostępu do kamery dla nakładki prezentera.";
+"NSMicrophoneUsageDescription" = "Rec potrzebuje dostępu do mikrofonu, aby nagrywać Twój głos.";
+"NSScreenCaptureUsageDescription" = "Rec potrzebuje dostępu do nagrywania ekranu, aby przechwytywać ekrany, okna i aplikacje.";

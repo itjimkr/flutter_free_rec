@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rec</string>
+    <string name="notification_channel_name">การบันทึกหน้าจอ</string>
+    <string name="notification_channel_description">แสดงขณะ Rec กำลังบันทึกหน้าจอของคุณ</string>
+    <string name="notification_recording_title">กำลังบันทึกหน้าจอ</string>
+    <string name="notification_recording_message">Rec กำลังบันทึกไฟล์วิดีโอของคุณ</string>
+    <string name="microphone_permission_required">ต้องมีสิทธิ์ไมโครโฟนสำหรับการบันทึกไมโครโฟน</string>
+    <string name="screen_capture_permission_denied">ไม่ได้รับสิทธิ์บันทึกหน้าจอ</string>
+    <string name="screen_capture_permission_revoked">สิทธิ์บันทึกหน้าจอถูกระบบเพิกถอน</string>
+    <string name="recording_start_failed">ไม่สามารถเริ่มตัวบันทึก Android ได้</string>
+    <string name="recording_already_running">มีการบันทึกที่กำลังทำงานอยู่แล้ว</string>
+    <string name="not_recording">ไม่มีการบันทึกที่กำลังทำงานให้หยุด</string>
+    <string name="recording_finalize_failed">ไม่สามารถสรุปการบันทึก Android ให้เสร็จได้</string>
+    <string name="projection_manager_unavailable">บริการจับภาพหน้าจอ Android ไม่พร้อมใช้งาน</string>
+    <string name="projection_acquire_failed">ไม่สามารถรับเซสชันการบันทึกของ Android ได้</string>
+    <string name="virtual_display_failed">ไม่สามารถสร้างจอภาพเสมือนของ Android ได้</string>
+    <string name="android_note">Android ใช้ MediaProjection สำหรับการจับภาพเต็มหน้าจอและบันทึกไฟล์ไว้ในโฟลเดอร์ภาพยนตร์ของแอป การจับภาพเป็นรายหน้าต่าง การกรองเดสก์ท็อป และโคเดกเฉพาะของ Apple ไม่พร้อมใช้งาน</string>
+</resources>

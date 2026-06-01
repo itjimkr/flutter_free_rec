@@ -1,0 +1,3 @@
+"NSCameraUsageDescription" = "प्रेज़ेंटर ओवरले के लिए Rec को कैमरा एक्सेस चाहिए।";
+"NSMicrophoneUsageDescription" = "आपकी आवाज़ रिकॉर्ड करने के लिए Rec को माइक्रोफ़ोन एक्सेस चाहिए।";
+"NSScreenCaptureUsageDescription" = "डिस्प्ले, विंडो और ऐप कैप्चर करने के लिए Rec को स्क्रीन रिकॉर्डिंग एक्सेस चाहिए।";

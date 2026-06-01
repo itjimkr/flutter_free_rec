@@ -1,0 +1,3 @@
+"NSCameraUsageDescription" = "Rec memerlukan akses kamera untuk overlay presenter.";
+"NSMicrophoneUsageDescription" = "Rec memerlukan akses mikrofon untuk merekam suara Anda.";
+"NSScreenCaptureUsageDescription" = "Rec memerlukan akses perekaman layar untuk merekam layar, jendela, dan aplikasi.";

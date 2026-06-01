@@ -1,0 +1,5 @@
+"bridge.unavailable" = "De recorderbrug is niet beschikbaar.";
+"outputDirectory.selectTitle" = "Uitvoermap kiezen";
+"outputDirectory.selectMessage" = "Kies waar opnames worden opgeslagen";
+"error.notRecording" = "Er is momenteel geen opname bezig.";
+"error.noDisplayAvailable" = "Er is geen scherm beschikbaar voor opname.";

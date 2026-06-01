@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rec</string>
+    <string name="notification_channel_name">画面録画</string>
+    <string name="notification_channel_description">Recが画面を録画している間に表示されます。</string>
+    <string name="notification_recording_title">画面を録画中</string>
+    <string name="notification_recording_message">Recが録画ファイルを保存しています。</string>
+    <string name="microphone_permission_required">マイク録音にはマイクの許可が必要です。</string>
+    <string name="screen_capture_permission_denied">画面録画の許可が与えられていません。</string>
+    <string name="screen_capture_permission_revoked">画面録画の許可がシステムによって取り消されました。</string>
+    <string name="recording_start_failed">Androidレコーダーを開始できませんでした。</string>
+    <string name="recording_already_running">すでに録画が実行中です。</string>
+    <string name="not_recording">停止できる録画がありません。</string>
+    <string name="recording_finalize_failed">Android録画を完了できませんでした。</string>
+    <string name="projection_manager_unavailable">Androidの画面キャプチャサービスを利用できません。</string>
+    <string name="projection_acquire_failed">Android録画セッションを取得できませんでした。</string>
+    <string name="virtual_display_failed">Androidの仮想ディスプレイを作成できませんでした。</string>
+    <string name="android_note">AndroidではMediaProjectionを使って全画面を録画し、録画ファイルはアプリのMoviesフォルダに保存されます。ウィンドウ単位の録画、デスクトップフィルタリング、Apple専用コーデックは利用できません。</string>
+</resources>

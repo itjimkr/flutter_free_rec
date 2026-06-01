@@ -1,0 +1,14 @@
+Rec
+===
+
+Rec is a Flutter-based screen recording app for macOS, iOS, and Android.
+
+Portions of the macOS recording stack were adapted from BetterCapture:
+
+  BetterCapture
+  Copyright (c) 2026 Joshua Sattler
+  License: MIT
+  Source: https://github.com/jsattler/BetterCapture
+
+The original MIT license notice is preserved in this repository in accordance
+with the BetterCapture license.

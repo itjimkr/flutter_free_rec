@@ -1,0 +1,5 @@
+"bridge.unavailable" = "Cầu nối trình ghi không khả dụng.";
+"outputDirectory.selectTitle" = "Chọn thư mục đầu ra";
+"outputDirectory.selectMessage" = "Chọn nơi sẽ lưu bản ghi";
+"error.notRecording" = "Hiện không có bản ghi nào đang diễn ra.";
+"error.noDisplayAvailable" = "Không có màn hình nào khả dụng để ghi.";

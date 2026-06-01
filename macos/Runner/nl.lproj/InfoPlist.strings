@@ -1,0 +1,3 @@
+"NSCameraUsageDescription" = "Rec heeft cameratoegang nodig voor de presentator-overlay.";
+"NSMicrophoneUsageDescription" = "Rec heeft microfoontoegang nodig om uw stem op te nemen.";
+"NSScreenCaptureUsageDescription" = "Rec heeft toegang tot schermopname nodig om schermen, vensters en apps vast te leggen.";

@@ -1,0 +1,12 @@
+"bridge.unavailable" = "บริดจ์ตัวบันทึกไม่พร้อมใช้งาน";
+"note.ios" = "iOS ใช้ ReplayKit สำหรับการบันทึกหน้าจอภายในแอป การเลือกหน้าต่าง การกำหนดเส้นทางเสียงระบบ และโอเวอร์เลย์แบบ macOS ไม่พร้อมใช้งาน";
+"error.recordingEndedBeforeFrames" = "การบันทึกสิ้นสุดก่อนที่จะมีการเขียนเฟรมใด ๆ";
+"error.finishWritingFailed" = "ไม่สามารถเขียนไฟล์บันทึกให้เสร็จสมบูรณ์ได้";
+"error.bridgeUnavailable" = "บริดจ์ตัวบันทึก iOS ไม่พร้อมใช้งาน";
+"error.captureAlreadyRunning" = "มีการบันทึกที่กำลังทำงานอยู่แล้ว";
+"error.microphonePermissionDenied" = "ต้องมีสิทธิ์ไมโครโฟนสำหรับการบันทึกไมโครโฟน";
+"error.notRecording" = "ไม่มีการบันทึกที่กำลังทำงานให้หยุด";
+"error.writerUnavailable" = "ตัวย้ายเขียนไฟล์บันทึกยังไม่ได้เริ่มต้น";
+"error.emptyCapture" = "การบันทึกสิ้นสุดก่อนที่จะจับภาพเฟรมใด ๆ";
+"error.finishFailed" = "ไม่สามารถสรุปการบันทึกให้เสร็จได้";
+"error.videoInputUnavailable" = "ไม่สามารถเชื่อมต่ออินพุตวิดีโอกับตัวเขียนได้";

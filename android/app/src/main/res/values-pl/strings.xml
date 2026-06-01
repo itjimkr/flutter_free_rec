@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rec</string>
+    <string name="notification_channel_name">Nagrywanie ekranu</string>
+    <string name="notification_channel_description">Pokazywane, gdy Rec nagrywa ekran.</string>
+    <string name="notification_recording_title">Nagrywanie ekranu</string>
+    <string name="notification_recording_message">Rec zapisuje Twoje nagranie.</string>
+    <string name="microphone_permission_required">Do nagrywania z mikrofonu wymagane jest uprawnienie do mikrofonu.</string>
+    <string name="screen_capture_permission_denied">Uprawnienie do przechwytywania ekranu nie zostało przyznane.</string>
+    <string name="screen_capture_permission_revoked">Uprawnienie do przechwytywania ekranu zostało cofnięte przez system.</string>
+    <string name="recording_start_failed">Nie udało się uruchomić nagrywarki Androida.</string>
+    <string name="recording_already_running">Nagrywanie już trwa.</string>
+    <string name="not_recording">Nie ma aktywnego nagrania do zatrzymania.</string>
+    <string name="recording_finalize_failed">Nie udało się sfinalizować nagrania Androida.</string>
+    <string name="projection_manager_unavailable">Usługa przechwytywania ekranu Androida jest niedostępna.</string>
+    <string name="projection_acquire_failed">Nie udało się uzyskać sesji nagrywania Androida.</string>
+    <string name="virtual_display_failed">Nie udało się utworzyć wirtualnego ekranu Androida.</string>
+    <string name="android_note">Android używa MediaProjection do nagrywania pełnego ekranu i zapisuje nagrania w folderze filmów aplikacji. Nagrywanie pojedynczych okien, filtrowanie pulpitu i kodeki specyficzne dla Apple nie są dostępne.</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rec</string>
+    <string name="notification_channel_name">Gravação de tela</string>
+    <string name="notification_channel_description">Mostrado enquanto o Rec captura sua tela.</string>
+    <string name="notification_recording_title">Gravando a tela</string>
+    <string name="notification_recording_message">O Rec está salvando sua gravação.</string>
+    <string name="microphone_permission_required">A permissão do microfone é necessária para capturar o microfone.</string>
+    <string name="screen_capture_permission_denied">A permissão de captura de tela não foi concedida.</string>
+    <string name="screen_capture_permission_revoked">A permissão de captura de tela foi revogada pelo sistema.</string>
+    <string name="recording_start_failed">Falha ao iniciar o gravador do Android.</string>
+    <string name="recording_already_running">Uma gravação já está em andamento.</string>
+    <string name="not_recording">Não há gravação ativa para parar.</string>
+    <string name="recording_finalize_failed">Não foi possível finalizar a gravação do Android.</string>
+    <string name="projection_manager_unavailable">O serviço de captura de tela do Android não está disponível.</string>
+    <string name="projection_acquire_failed">Falha ao obter a sessão de gravação do Android.</string>
+    <string name="virtual_display_failed">Falha ao criar a tela virtual do Android.</string>
+    <string name="android_note">O Android usa MediaProjection para captura em tela cheia e salva as gravações na pasta de filmes do app. Captura por janela, filtragem da área de trabalho e codecs específicos da Apple não estão disponíveis.</string>
+</resources>

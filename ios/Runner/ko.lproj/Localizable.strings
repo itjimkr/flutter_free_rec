@@ -1,0 +1,12 @@
+"bridge.unavailable" = "레코더 브리지를 사용할 수 없어요.";
+"note.ios" = "iOS에서는 ReplayKit으로 앱 내부 화면을 녹화해요. 창 선택, 시스템 오디오 라우팅, macOS 스타일 오버레이는 지원되지 않아요.";
+"error.recordingEndedBeforeFrames" = "프레임이 기록되기 전에 녹화가 끝났어요.";
+"error.finishWritingFailed" = "녹화 파일 저장을 마무리하지 못했어요.";
+"error.bridgeUnavailable" = "iOS 레코더 브리지를 사용할 수 없어요.";
+"error.captureAlreadyRunning" = "이미 녹화가 진행 중이에요.";
+"error.microphonePermissionDenied" = "마이크를 함께 녹화하려면 마이크 권한이 필요해요.";
+"error.notRecording" = "멈출 수 있는 진행 중 녹화가 없어요.";
+"error.writerUnavailable" = "녹화 저장기가 준비되지 않았어요.";
+"error.emptyCapture" = "프레임이 기록되기 전에 녹화가 끝났어요.";
+"error.finishFailed" = "녹화를 정상적으로 마무리하지 못했어요.";
+"error.videoInputUnavailable" = "비디오 입력을 녹화 저장기에 연결하지 못했어요.";

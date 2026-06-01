@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rec</string>
+    <string name="notification_channel_name">Bildschirmaufnahme</string>
+    <string name="notification_channel_description">Wird angezeigt, während Rec Ihren Bildschirm aufnimmt.</string>
+    <string name="notification_recording_title">Bildschirm wird aufgenommen</string>
+    <string name="notification_recording_message">Rec speichert Ihre Aufnahme.</string>
+    <string name="microphone_permission_required">Für die Mikrofonaufnahme ist eine Mikrofonberechtigung erforderlich.</string>
+    <string name="screen_capture_permission_denied">Die Berechtigung zur Bildschirmaufnahme wurde nicht erteilt.</string>
+    <string name="screen_capture_permission_revoked">Die Berechtigung zur Bildschirmaufnahme wurde vom System widerrufen.</string>
+    <string name="recording_start_failed">Der Android-Recorder konnte nicht gestartet werden.</string>
+    <string name="recording_already_running">Eine Aufnahme läuft bereits.</string>
+    <string name="not_recording">Es gibt keine aktive Aufnahme zum Stoppen.</string>
+    <string name="recording_finalize_failed">Die Android-Aufnahme konnte nicht abgeschlossen werden.</string>
+    <string name="projection_manager_unavailable">Der Android-Bildschirmaufnahmedienst ist nicht verfügbar.</string>
+    <string name="projection_acquire_failed">Die Android-Aufnahmesitzung konnte nicht abgerufen werden.</string>
+    <string name="virtual_display_failed">Das virtuelle Android-Display konnte nicht erstellt werden.</string>
+    <string name="android_note">Android verwendet MediaProjection für die Vollbildaufnahme und speichert Aufnahmen im Filme-Ordner der App. Aufnahme pro Fenster, Desktop-Filterung und Apple-spezifische Codecs sind nicht verfügbar.</string>
+</resources>

@@ -1,0 +1,3 @@
+"NSCameraUsageDescription" = "Rec cần quyền truy cập camera cho lớp phủ người thuyết trình.";
+"NSMicrophoneUsageDescription" = "Rec cần quyền truy cập micrô để ghi giọng nói của bạn.";
+"NSScreenCaptureUsageDescription" = "Rec cần quyền ghi màn hình để ghi lại màn hình, cửa sổ và ứng dụng.";

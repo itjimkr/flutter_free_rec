@@ -1,0 +1,12 @@
+"bridge.unavailable" = "Die Recorder-Brücke ist nicht verfügbar.";
+"note.ios" = "iOS verwendet ReplayKit für die Bildschirmaufnahme innerhalb der App. Fensterauswahl, Systemaudio-Routing und Overlays im macOS-Stil sind nicht verfügbar.";
+"error.recordingEndedBeforeFrames" = "Die Aufnahme wurde beendet, bevor ein Frame geschrieben wurde.";
+"error.finishWritingFailed" = "Die Aufnahme konnte nicht fertig geschrieben werden.";
+"error.bridgeUnavailable" = "Die iOS-Recorder-Brücke ist nicht verfügbar.";
+"error.captureAlreadyRunning" = "Eine Aufnahme läuft bereits.";
+"error.microphonePermissionDenied" = "Für die Mikrofonaufnahme ist eine Mikrofonberechtigung erforderlich.";
+"error.notRecording" = "Es gibt keine aktive Aufnahme zum Stoppen.";
+"error.writerUnavailable" = "Der Aufnahme-Writer wurde nicht initialisiert.";
+"error.emptyCapture" = "Die Aufnahme wurde beendet, bevor ein Frame erfasst wurde.";
+"error.finishFailed" = "Die Aufnahme konnte nicht abgeschlossen werden.";
+"error.videoInputUnavailable" = "Der Videoeingang konnte nicht mit dem Writer verbunden werden.";

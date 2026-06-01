@@ -1,0 +1,5 @@
+"bridge.unavailable" = "錄影橋接不可用。";
+"outputDirectory.selectTitle" = "選擇輸出資料夾";
+"outputDirectory.selectMessage" = "請選擇錄影檔的儲存位置";
+"error.notRecording" = "目前沒有正在進行的錄影。";
+"error.noDisplayAvailable" = "沒有可供錄影的顯示器。";

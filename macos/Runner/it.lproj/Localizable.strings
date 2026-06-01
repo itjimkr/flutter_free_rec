@@ -1,0 +1,5 @@
+"bridge.unavailable" = "Il bridge del registratore non è disponibile.";
+"outputDirectory.selectTitle" = "Seleziona cartella di output";
+"outputDirectory.selectMessage" = "Scegli dove salvare le registrazioni";
+"error.notRecording" = "Al momento non è in corso alcuna registrazione.";
+"error.noDisplayAvailable" = "Nessun display è disponibile per la registrazione.";

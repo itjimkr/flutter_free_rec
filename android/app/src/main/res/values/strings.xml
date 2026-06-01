@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rec</string>
+    <string name="notification_channel_name">Screen recording</string>
+    <string name="notification_channel_description">Shown while Rec is capturing your screen.</string>
+    <string name="notification_recording_title">Recording screen</string>
+    <string name="notification_recording_message">Rec is saving your recording.</string>
+    <string name="microphone_permission_required">Microphone permission is required for microphone capture.</string>
+    <string name="screen_capture_permission_denied">Screen capture permission was not granted.</string>
+    <string name="screen_capture_permission_revoked">Screen capture permission was revoked by the system.</string>
+    <string name="recording_start_failed">Failed to start the Android recorder.</string>
+    <string name="recording_already_running">A recording is already running.</string>
+    <string name="not_recording">There is no active recording to stop.</string>
+    <string name="recording_finalize_failed">The Android recording could not be finalized.</string>
+    <string name="projection_manager_unavailable">The Android screen capture service is unavailable.</string>
+    <string name="projection_acquire_failed">Failed to acquire the Android recording session.</string>
+    <string name="virtual_display_failed">Failed to create the Android virtual display.</string>
+    <string name="android_note">Android uses MediaProjection for full-screen capture and saves recordings in the app movies folder. Per-window capture, desktop filtering, and Apple-specific codecs are not available.</string>
+</resources>

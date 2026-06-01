@@ -1,0 +1,5 @@
+"bridge.unavailable" = "Le pont de l’enregistreur n’est pas disponible.";
+"outputDirectory.selectTitle" = "Sélectionner le dossier de sortie";
+"outputDirectory.selectMessage" = "Choisissez où les enregistrements seront enregistrés";
+"error.notRecording" = "Aucun enregistrement n’est en cours actuellement.";
+"error.noDisplayAvailable" = "Aucun écran n’est disponible pour l’enregistrement.";
