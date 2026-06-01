@@ -122,6 +122,31 @@ Built macOS app:
 build/macos/Build/Products/Release/rec.app
 ```
 
+## Maintainer Update Workflow
+
+For normal GitHub updates, keep commit history and push a new commit:
+
+```bash
+git status
+flutter analyze
+flutter test
+git add .
+git commit -m "Update project"
+git push
+```
+
+The local working branch is `clean-main`, and it tracks GitHub `main`, so a
+plain `git push` updates `https://github.com/itjimkr/flutter_free_rec`.
+
+Only rewrite the single initial commit when intentionally replacing the public
+history:
+
+```bash
+git add .
+git commit --amend --no-edit
+git push --force-with-lease origin clean-main:main
+```
+
 ## Upstream Attribution
 
 The root app does not vendor the upstream BetterCapture source tree. Portions of
